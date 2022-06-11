@@ -9,6 +9,7 @@
  - [Angkrit4You (Learn English)](https://angkrit4you.vercel.app/)
  - [SpaceX Clone Web](https://spacexrocketapp.vercel.app/SpaceXRocketApp)
  - [Topee (Free game by freetogame API)](https://vue-gamestore.vercel.app/) 🚧 I'm developing!!
+
 ### Now Studying 📖
  - VueJS (some web.....)
  - ReactJS
@@ -16,18 +17,12 @@
  - Django (Advanced)
 
 ### GitHub Stat 🎚️
-<center>
 
-![Kittipot's GitHub stats](https://github-readme-stats.vercel.app/api?username=Kittipot321&show_icons=true&theme=merko)
-
-</center>
+<p align="center"><img src='https://github-readme-stats.vercel.app/api?username=Kittipot321&show_icons=true&theme=merko' alt='Kittipot's GitHub stats'/></p>
 
 ### Top used languages 🔥🔥🔥
-<center>
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Kittipot321&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
-
-</center>
+<p align="center"><img src='https://github-readme-stats.vercel.app/api/top-langs/?username=Kittipot321&layout=compact' alt='Top Langs'/></p>
 
 ### Social
 You can follow me on social media and contact me to email.
